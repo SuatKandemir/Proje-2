@@ -11,14 +11,14 @@ namespace Newpratict
     {
         public void CarRental(Car car1)
         {
-            Console.WriteLine("Kiralanan araç");
-            Console.WriteLine("Marka : " + car1.Brand);
+            Console.WriteLine("Rentel Car");
+            Console.WriteLine("Brand : " + car1.Brand);
             
         }
         public void Cr(Car car2)
         {
-            Console.WriteLine("Kiralanan araç");
-            Console.WriteLine("Marka : " + car2.Brand);
+            Console.WriteLine("Rentel Car");
+            Console.WriteLine("Brand : " + car2.Brand);
           
         }
     }
