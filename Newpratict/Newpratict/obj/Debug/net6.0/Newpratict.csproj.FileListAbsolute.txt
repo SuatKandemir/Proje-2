@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\console\Newpratict\Newpratict\bin\Debug\net6.0\Newpratict.exe
+C:\Users\ADMIN\Desktop\console\Newpratict\Newpratict\bin\Debug\net6.0\Newpratict.deps.json
+C:\Users\ADMIN\Desktop\console\Newpratict\Newpratict\bin\Debug\net6.0\Newpratict.runtimeconfig.json
+C:\Users\ADMIN\Desktop\console\Newpratict\Newpratict\bin\Debug\net6.0\Newpratict.dll
+C:\Users\ADMIN\Desktop\console\Newpratict\Newpratict\bin\Debug\net6.0\Newpratict.pdb
+C:\Users\ADMIN\Desktop\console\Newpratict\Newpratict\obj\Debug\net6.0\Newpratict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\console\Newpratict\Newpratict\obj\Debug\net6.0\Newpratict.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\console\Newpratict\Newpratict\obj\Debug\net6.0\Newpratict.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\console\Newpratict\Newpratict\obj\Debug\net6.0\Newpratict.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\console\Newpratict\Newpratict\obj\Debug\net6.0\Newpratict.dll
+C:\Users\ADMIN\Desktop\console\Newpratict\Newpratict\obj\Debug\net6.0\refint\Newpratict.dll
+C:\Users\ADMIN\Desktop\console\Newpratict\Newpratict\obj\Debug\net6.0\Newpratict.pdb
+C:\Users\ADMIN\Desktop\console\Newpratict\Newpratict\obj\Debug\net6.0\Newpratict.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\console\Newpratict\Newpratict\obj\Debug\net6.0\ref\Newpratict.dll
