@@ -10,11 +10,11 @@ namespace Newpratict
     {
         public void Hire(Car car1)
         {
-         Console.WriteLine(" Mercedes Hire = Kiralayan :Suat Kandemir & Kiralama zamanı : 15.10.2023 & Kiralama Fiyatı : 100$   " );
+         Console.WriteLine(" Mercedes Hire = Renter :Suat Kandemir & Rentel time : 15.10.2023 & Rentel Price : 100$   " );
         }
         public void Hr(Car car2)
         {
-         Console.WriteLine(" Kiralayan :Yavuz Yazıcı & Kiralama zamanı : 10.12.2022 & Kiralama Fiyatı : 50$   ");
+         Console.WriteLine(" Rentel :Yavuz Yazıcı & Rentel Time : 10.12.2022 & Rentel Price : 50$   ");
         }
     }
 
